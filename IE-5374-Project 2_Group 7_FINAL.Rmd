@@ -8,7 +8,6 @@ output:
 Group Members:
 1. Aman Maheshwari
 2. Saloni Bhutada
-3. Zixi Xiao
 
 ```{r setup, include=FALSE, message=FALSE, echo=TRUE, results='hide', warning=FALSE}
 knitr::opts_chunk$set(warning = FALSE, message = FALSE, results = 'hide', fig.keep='all') 
